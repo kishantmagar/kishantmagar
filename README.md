@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishantmagar&label=Profile%20views&color=0e75b6&style=flat" alt="kishantmagar" /> </p>
 
-- 🔭 I’m currently working on **Data Migration Testing, CRM Sales Hub & Field Service Testing, DocuSign Integration Testing**
+- 🔭 I’m currently working on **Data Migration Testing, CRM Sales Hub & Field Service Testing, DocuSign Integration Testing and HMRC Payroll Software Testing**
 - 🌱 I’m currently learning **Playwright, Postman Script Automation**
 - 👯 I’m looking to collaborate on **API Testing, Automation Frameworks, Data Testing**
 - 👨‍💻 All of my projects are available at [https://github.com/kishantmagar](https://github.com/kishantmagar)
