@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Thapa</h1>
-<h3 align="center">Associate Quality Assurance Engineer</h3>
+<h3 align="center">Quality Assurance Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishantmagar&label=Profile%20views&color=0e75b6&style=flat" alt="kishantmagar" /> </p>
 
