@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishantmagar&label=Profile%20views&color=0e75b6&style=flat" alt="kishantmagar" /> </p>
 
-- 🔭 I’m currently working on **Data Migration Testing, CRM Sales Hub & Field Service Testing, DocuSign Integration Testing and HMRC Payroll Software Testing**
-- 🌱 I’m currently learning **Playwright, Postman Script Automation**
-- 👯 I’m looking to collaborate on **API Testing, Automation Frameworks, Data Testing**
+- 🔭 I’m currently working on **Microsoft BI Stack, CRM Sales Hub & Field Service, HMRC Payroll Software Testing**
+- 🌱 I’m currently learning **Google Data Analytics Stack, Microsoft BI Stack, Playwright, Postman Script Automation**
+- 👯 I’m looking to collaborate on **BI Development, Data Analytics work, API Testing, Automation Frameworks, Data Testing**
 - 👨‍💻 All of my projects are available at [https://github.com/kishantmagar](https://github.com/kishantmagar)
 - 💬 Ask me about **SQL, Postman, BI Tools, Excel, Python**
 - 📫 How to reach me **mail: kishan.thapa0723@gmail.com**
